@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django migrations
+*/migrations/
+
+# Environment variables
+.env
+
+# Django static and media files
+staticfiles/
+media/
+
+# Local database
+db.sqlite3
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
